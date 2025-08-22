@@ -1,0 +1,1 @@
+I actively use GitHub to host and manage my projects, showcasing my work in Python, full stack web development, and data analytics. My repositories include well-documented code, real-time project implementations, and collaborative contributions.
